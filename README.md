@@ -25,3 +25,11 @@ __installments_payment__: payment history for previous loans at Home Credit. The
 The diagram shows how the data is related:
 
 ![home_credit_overview](https://user-images.githubusercontent.com/25699909/44066384-a75d01cc-9f35-11e8-84a8-fe60cbeedfcf.PNG)
+
+## My Solution's Key Components
+
+* LightGBM: https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree
+
+* Feature engineering by hand/intuition, and through various aggregations
+
+* Target encoding
